@@ -11,3 +11,5 @@ Quality analyst
 
 - Quality analysts responsibities includes working with developers closely and getting the errors resolved by them
 - A Quality analyst must create test scripts according to the website with the errors identified
+
+[About Me](AboutMe.md)
