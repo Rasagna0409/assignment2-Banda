@@ -9,3 +9,5 @@ Quality analyst
 2. To be successful as a Quality Analyst, you should demonstrate strong attention to detail and have analytical and problem-solving abilities.
 
 
+- Quality analysts responsibities includes working with developers closely and getting the errors resolved by them
+- A Quality analyst must create test scripts according to the website with the errors identified
