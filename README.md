@@ -29,5 +29,5 @@ I am sharing my favourite places which I would recomend to visit.
 # Best Quotes
 
  > "The purpose of our lives is to be happy." - "Dalai Lama"
+ 
  > "Not how long, but how well you have lived is the main thing." - "Seneca"
----
