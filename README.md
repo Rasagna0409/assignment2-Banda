@@ -3,6 +3,8 @@
 ###### Panipuri
 Panipuri is a **Indian snack**, it consists of a round or ball-shaped, hollow puri (a deep-fried crisp flatbread), filled with a mixture of **flavored water, tamarind chutney, chili powder, chaat masala, potato mash, onion or chickpeas**. It is my favourate food because it consists of all **falvours**.
 
+![My picture](Panipuri-Shots.jpg)
+
 ---
 # Job
 
@@ -27,13 +29,15 @@ I am sharing my favourite places which I would recomend to visit.
 | Agra | 5 | 200$ |
 | Kashmir | 8 | 700$ |
 
+
+
 ---
 
 # Best Quotes
 
- > "The purpose of our lives is to be happy." - "Dalai Lama"
+ > "The purpose of our lives is to be happy." - *Dalai Lama*
 
- > "Not how long, but how well you have lived is the main thing." - "Seneca"
+ > "Not how long, but how well you have lived is the main thing." - *Seneca*
 
 ---
 # Code fencing
