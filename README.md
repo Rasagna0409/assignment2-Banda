@@ -23,3 +23,11 @@ I am sharing my favourite places which I would recomend to visit.
 | Kerala | 6 | 400$ |
 | Agra | 5 | 200$ |
 | Kashmir | 8 | 700$ |
+
+---
+
+# Best Quotes
+
+ > "The purpose of our lives is to be happy." - "Dalai Lama"
+ > "Not how long, but how well you have lived is the main thing." - "Seneca"
+---
