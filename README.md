@@ -29,6 +29,10 @@ I am sharing my favourite places which I would recomend to visit.
 | Agra | 5 | 200$ |
 | Kashmir | 8 | 700$ |
 
+![My picture](Goa.jpg)
+![My picture](Kerala.jpg)
+![My picture](Kashmir.jpg)
+![My picture](Agra.jpg)
 
 
 ---
