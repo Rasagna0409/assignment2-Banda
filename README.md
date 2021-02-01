@@ -13,3 +13,13 @@ Quality analyst
 - A Quality analyst must create test scripts according to the website with the errors identified
 
 [About Me](AboutMe.md)
+
+---
+
+I am sharing my favourite places which I would recomend to visit.
+| Location | Time | Expenditure |
+| :---: | :---: | :---: |
+| Goa | 8 | 300$ |
+| Kerala | 6 | 400$ |
+| Agra | 5 | 200$ |
+| Kashmir | 8 | 700$ |
